@@ -53,8 +53,8 @@ namespace jaba2_task2
         {
             deleg[] arrayOfdelegat = new deleg[3]
          {
-                () => this.Opacity = 0.2,
                 () => this.BackColor = Color.Blue,
+                () => this.Opacity = 0.2,
                 () => MessageBox.Show("Hello World")
          };
 
