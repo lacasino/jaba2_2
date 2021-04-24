@@ -1,0 +1,15 @@
+C:\Users\3nora\source\repos\jaba2_task2\bin\Debug\netcoreapp3.1\jaba2_task2.exe
+C:\Users\3nora\source\repos\jaba2_task2\bin\Debug\netcoreapp3.1\jaba2_task2.deps.json
+C:\Users\3nora\source\repos\jaba2_task2\bin\Debug\netcoreapp3.1\jaba2_task2.runtimeconfig.json
+C:\Users\3nora\source\repos\jaba2_task2\bin\Debug\netcoreapp3.1\jaba2_task2.runtimeconfig.dev.json
+C:\Users\3nora\source\repos\jaba2_task2\bin\Debug\netcoreapp3.1\jaba2_task2.dll
+C:\Users\3nora\source\repos\jaba2_task2\bin\Debug\netcoreapp3.1\jaba2_task2.pdb
+C:\Users\3nora\source\repos\jaba2_task2\obj\Debug\netcoreapp3.1\jaba2_task2.csprojAssemblyReference.cache
+C:\Users\3nora\source\repos\jaba2_task2\obj\Debug\netcoreapp3.1\jaba2_task2.Form1.resources
+C:\Users\3nora\source\repos\jaba2_task2\obj\Debug\netcoreapp3.1\jaba2_task2.csproj.GenerateResource.cache
+C:\Users\3nora\source\repos\jaba2_task2\obj\Debug\netcoreapp3.1\jaba2_task2.AssemblyInfoInputs.cache
+C:\Users\3nora\source\repos\jaba2_task2\obj\Debug\netcoreapp3.1\jaba2_task2.AssemblyInfo.cs
+C:\Users\3nora\source\repos\jaba2_task2\obj\Debug\netcoreapp3.1\jaba2_task2.csproj.CoreCompileInputs.cache
+C:\Users\3nora\source\repos\jaba2_task2\obj\Debug\netcoreapp3.1\jaba2_task2.dll
+C:\Users\3nora\source\repos\jaba2_task2\obj\Debug\netcoreapp3.1\jaba2_task2.pdb
+C:\Users\3nora\source\repos\jaba2_task2\obj\Debug\netcoreapp3.1\jaba2_task2.genruntimeconfig.cache
